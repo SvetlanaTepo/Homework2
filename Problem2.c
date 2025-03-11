@@ -1,5 +1,5 @@
-#include <stdio.h> // inputting for input and Output functions
-#include <string.h> // Inputting for strcmp() function
+#include <stdio.h> 
+#include <string.h>
 int main(){
 
 	FILE *csv_file = fopen("Thesample.csv", "r"); // open the file
